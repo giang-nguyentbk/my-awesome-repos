@@ -25,12 +25,13 @@ This is a list of useful repositories.
    - https://github.com/symisc/sod
    - https://github.com/Apress/pointers-c-programming
    - https://github.com/PacktPublishing/Hands-On-Embedded-Programming-with-Qt
-5. Embedded
+5. Embedded (Automotive, Linux, etc)
    - https://github.com/ndrplz/self-driving-car
    - https://github.com/matux-team/mStack
    - https://github.com/Marcin214/awesome-automotive
    - https://github.com/Optware/Optware-ng
    - https://github.com/Entware/Entware-ng
+   - https://github.com/tuanpm3/Documents
 6. Industrial
    - https://github.com/frangoteam/FUXA
    - https://github.com/dnp3/opendnp3
