@@ -3,7 +3,7 @@ This is a list of useful repositories.
 
 1. General
    - https://github.com/practical-tutorials/project-based-learning 
-2. Anroid
+2. Android
    - https://github.com/google/gson
    - https://github.com/square/picasso
    - https://github.com/JStumpp/awesome-android
