@@ -19,6 +19,7 @@ This is a list of useful repositories.
    - https://github.com/the-tcpdump-group/tcpdump
    - https://github.com/cesanta/mongoose
    - https://github.com/protocolbuffers/protobuf
+   - https://github.com/kylemcdonald/FreeWifi/
 4. C/C++
    - https://github.com/fffaraz/awesome-cpp
    - https://github.com/kiishor/UML-State-Machine-in-C
