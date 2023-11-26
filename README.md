@@ -1,5 +1,5 @@
 # my-awesome-repos
-This is a list of useful repositories.
+This is a list of useful repositories and website.
 
 1. General
    - https://github.com/practical-tutorials/project-based-learning 
@@ -20,6 +20,7 @@ This is a list of useful repositories.
    - https://github.com/cesanta/mongoose
    - https://github.com/protocolbuffers/protobuf
    - https://github.com/kylemcdonald/FreeWifi/
+   - https://github.com/Ettercap/ettercap
 4. C/C++
    - https://github.com/fffaraz/awesome-cpp
    - https://github.com/kiishor/UML-State-Machine-in-C
@@ -41,3 +42,11 @@ This is a list of useful repositories.
    - https://github.com/opcua-skills/plug-and-produce
    - https://github.com/GavinYellow/SharpSCADA
    - https://github.com/AlexDovgan/FreeSCADA
+7. Raw process's memory accessing
+   - https://github.com/meemknight/memGrab
+   - https://www.youtube.com/watch?v=47xNiBMVSvU  (refer to above)
+   - https://lonami.dev/blog/woce-1/    (make our own Cheat Engine)
+   - https://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html    (Memory Scanning)
+   - https://nullprogram.com/blog/2016/09/03/   (Memory Scanning)
+   - https://cs.stackexchange.com/questions/133331/reading-process-memory-of-computer-a-on-computer-b  (Memory Scan on another device in a same network)
+   - https://en.wikipedia.org/wiki/Remote_direct_memory_access    (Memory Scan on another device in a same network)
