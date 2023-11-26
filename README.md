@@ -50,3 +50,4 @@ This is a list of useful repositories and website.
    - https://nullprogram.com/blog/2016/09/03/   (Memory Scanning)
    - https://cs.stackexchange.com/questions/133331/reading-process-memory-of-computer-a-on-computer-b  (Memory Scan on another device in a same network)
    - https://en.wikipedia.org/wiki/Remote_direct_memory_access    (Memory Scan on another device in a same network)
+   - https://www.geeksforgeeks.org/remote-direct-memory-access-rdma/  (RDMA pros and cons)
