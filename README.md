@@ -51,3 +51,6 @@ This is a list of useful repositories and website.
    - https://cs.stackexchange.com/questions/133331/reading-process-memory-of-computer-a-on-computer-b  (Memory Scan on another device in a same network)
    - https://en.wikipedia.org/wiki/Remote_direct_memory_access    (Memory Scan on another device in a same network)
    - https://www.geeksforgeeks.org/remote-direct-memory-access-rdma/  (RDMA pros and cons)
+   - https://unix.stackexchange.com/questions/6301/how-do-i-read-from-proc-pid-mem-under-linux
+   - https://stackoverflow.com/questions/12977179/reading-living-process-memory-without-interrupting-it
+   - https://www.codeproject.com/Articles/4865/Performing-a-hex-dump-of-another-process-s-memory
