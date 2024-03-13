@@ -54,3 +54,25 @@ This is a list of useful repositories and website.
    - https://unix.stackexchange.com/questions/6301/how-do-i-read-from-proc-pid-mem-under-linux
    - https://stackoverflow.com/questions/12977179/reading-living-process-memory-without-interrupting-it
    - https://www.codeproject.com/Articles/4865/Performing-a-hex-dump-of-another-process-s-memory
+8. Linux Programming
+   - https://man7.org/linux/man-pages/man2/sched_setaffinity.2.html   (Assign a thread to specific CPU core)
+   - https://tuhuynh.com/posts/nio-under-the-hood/
+   - https://www.geeksforgeeks.org/thread-pool-in-cpp/
+   - https://nima101.github.io/io_multiplexing
+9. Red team Cybersecurity
+   - https://cpufun.substack.com/p/to-sched_yield-or-not-to-sched_yield   (Relinquish the CPU time of a proccess)
+   - https://guyinatuxedo.github.io/25-heap/index.html   (Heap, binary, CTF exploitation)
+   - https://www.youtube.com/watch?v=ZghaZXyihbM   (JHT PWN Youtuber talk about Heap exploitation)
+   - https://dzone.com/articles/windows-api-hooking-and-dll-injection
+   - https://tgadola.medium.com/my-first-malware-cbc0ec63cced
+   - https://www.ired.team/offensive-security/code-injection-process-injection
+   - https://trikkss.github.io/posts/iat_hooking/
+   - https://github.com/m0n0ph1/IAT-Hooking-Revisited
+   - https://lttqstudy.wordpress.com/category/programming/hooking/
+   - https://www.makeuseof.com/what-is-dll-hooking-and-how-does-it-work/
+   - https://securityxploded.com/dll-injection-and-hooking.php
+   - https://securitytrainings.net/
+   - https://ctf101.org/
+   - https://infosecwriteups.com/heap-exploitation-journey-1-tcache-attack-5b38fb0c19b0
+   - https://blog.pepsipu.com/posts/nightmare
+   - https://ctf-wiki.mahaloz.re/
